@@ -9,6 +9,10 @@ Custom evaluation function with classification report + heatmap
 Clean, readable code with visualizations
 ## Files
 trafficviolationProject.ipynb
+feature_importance.png
+confusion_matrix.png
+shap_bar.png
+shap_summary.png
 ## Project Overview
 Goal: Detect if a driver is violating traffic rules (e.g., over-speeding, no helmet, alcohol level).
 Tech Stack: Python, Pandas, Scikit-learn, SHAP, Matplotlib, Seaborn
